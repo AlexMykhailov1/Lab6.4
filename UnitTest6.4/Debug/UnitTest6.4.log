@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest6.4.cpp
+Y:\Programming\Projects\Lab6.4\Lab6.4\Lab6.4.cpp(125): warning C4715: 'FindIndexFirstNegRekurs': not all control paths return a value
+Y:\Programming\Projects\Lab6.4\Lab6.4\Lab6.4.cpp(136): warning C4715: 'FindIndexLastNegRekurs': not all control paths return a value
+     Creating library Y:\Programming\Projects\Lab6.4\Debug\UnitTest6.4.lib and object Y:\Programming\Projects\Lab6.4\Debug\UnitTest6.4.exp
+  UnitTest6.4.vcxproj -> Y:\Programming\Projects\Lab6.4\Debug\UnitTest6.4.dll
